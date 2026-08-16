@@ -7,8 +7,8 @@ Find the password for **Natas 1**.
 ## What We Have
 
 * Username: `natas0`
-* Natas 0 webpage
-* Login credentials provided by OverTheWire
+* URL : `http://natas0.natas.labs.overthewire.org`
+* Password : `natas0`
 
 ## What We Need
 
@@ -40,11 +40,11 @@ So, checking the source is a basic web reconnaissance step.
 
 Search through the HTML source.
 
-The password is hidden inside an **HTML comment**.
+The password is hidden inside an **HTML comment**. `scfWG6qNEIdzqVyfRwEGXyNUfFZkZeQ7`
 
 Copy the password and use it to log in to **Natas 1**.
 
-## Concept Learned
+## Concepts
 
 * HTML source code
 * HTML comments
